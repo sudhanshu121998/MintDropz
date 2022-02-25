@@ -1,4 +1,4 @@
-MintDropz-Task
+Social Platform
 
 Steps to run/use apis
 1) Clone the git repo
